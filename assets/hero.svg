@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" width="1600" height="700" role="img" aria-label="Placeholder campus illustration">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#20345c"/>
+      <stop offset="1" stop-color="#4a6a99"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="700" fill="url(#sky)"/>
+  <circle cx="1320" cy="150" r="70" fill="#f6e7b8" opacity=".35"/>
+  <g fill="#16233d" opacity=".9">
+    <rect x="120" y="360" width="420" height="340"/>
+    <rect x="560" y="300" width="480" height="400"/>
+    <rect x="1060" y="380" width="420" height="320"/>
+    <polygon points="800,180 1060,300 540,300"/>
+  </g>
+  <g fill="#f3d98a" opacity=".55">
+    <rect x="180" y="420" width="46" height="60"/><rect x="260" y="420" width="46" height="60"/>
+    <rect x="340" y="420" width="46" height="60"/><rect x="420" y="420" width="46" height="60"/>
+    <rect x="620" y="360" width="46" height="60"/><rect x="700" y="360" width="46" height="60"/>
+    <rect x="780" y="360" width="46" height="60"/><rect x="860" y="360" width="46" height="60"/>
+    <rect x="940" y="360" width="46" height="60"/>
+    <rect x="1120" y="440" width="46" height="60"/><rect x="1200" y="440" width="46" height="60"/>
+    <rect x="1280" y="440" width="46" height="60"/><rect x="1360" y="440" width="46" height="60"/>
+  </g>
+  <rect y="660" width="1600" height="40" fill="#101a2e"/>
+</svg>

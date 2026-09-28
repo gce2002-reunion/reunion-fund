@@ -1,0 +1,30 @@
+key,value,meaning,
+as_of,12 Sep 2026,Date shown as AS OF,
+target,800000,Target fund (₹),
+received,742000,Verified contributions (₹),
+expenses_paid,185000,Expenses paid out of bank (₹),
+committed,47000,Booked but not yet paid (₹),
+available_bank,557000,Bank balance (₹),
+free_balance,510000,Bank balance minus commitments (₹),
+pct_of_target,0.9275,received / target (fraction),
+pct_spent_of_received,0.2493,expenses_paid / received,
+donut_free,0.6873,Donut share: free balance,
+donut_paid,0.2493,Donut share: expenses paid,
+donut_committed,0.0633,Donut share: committed,
+contributors,106,Unique verified contributors,
+avg_contribution,7000,Average (₹),
+bookings_done,"Venue advance, Catering advance, Event setup",,
+next_payment,Catering (Mar 2027),,
+on_track,Yes,Yes / Needs attention,
+account_name,GCE 2002 Silver Jubilee Reunion Fund,,
+bank,Axis Bank,,
+upi_id,gce2002reunion@axisbank,QR is generated from this,
+contact,finance.gce2002@example.com,,
+tagline,Every Contribution Brings Us Closer,,
+,,,
+recent_date,recent_description,recent_type,recent_amount
+10 Sep 2026,Contribution – Karthik S,Credit,7000
+08 Sep 2026,Event Management Advance,Debit,25000
+05 Sep 2026,Contribution – Priya R,Credit,7000
+02 Sep 2026,Venue Advance,Debit,75000
+30 Aug 2026,Contribution – Suresh M,Credit,10000
